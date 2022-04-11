@@ -4,6 +4,18 @@
   
   <h1><i>User Side</i></h1>
     
+  <h2>Flow</h2>  
+    <ul>
+  <li>User can explore many jobs.</li>
+  <li>Click on a job,he can see description about job,salary and location.</li>
+  <li>On applying user have to fill the form.</li>
+  
+</ul>
+    
+    
+    
+    
+    
   <h2><i>Home</i></h2>
     <p>Here, all jobs is visible to the user nearby posted by companies.</p>
     <img src = "https://user-images.githubusercontent.com/93570605/162711251-f24a367e-9657-409e-bf1b-18b9aafbab30.png"></img>
@@ -19,6 +31,16 @@
   <br/></br>
   
    <h1><i>Admin Side</i></h1>
+   
+   <h2>Flow</h2>  
+    <ul>
+  <li>Admin should Logged in.</li>
+  <li>All jobs posted by that admin can be visible by him.</li>
+  <li>Who applied and show interest regarding the job can be visible on clicking that job.It will retreive the list of all interested candidates.</li>
+  <li>Admin can shortlist if he liked the resume and can shedule the interview</li>
+  <li>After interviewing admin can edit status about that applicant whether he passed or failed the interview.</li>
+</ul>
+   
    
    <h2><i>Home</i></h2>
    Admin will able to see the status of all the jobs posted by him.
