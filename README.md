@@ -1,5 +1,5 @@
 <h1><i>Recruitment System</i></h1>
-  <p>The web application which make easier to find and fill the vacancies in companies.Enhanced from user as well as admin-end where job applying for user and adding jobs , shortlisting and scheduling interview task is far simple for admin.</p>  
+  <p>The web application which make easier to find and fill the vacancies in companies.Enhanced from user as well as admin-end where job applying for user and adding jobs , shortlisting and scheduling interview task is far simple for admin</p>  
   
   
   <h1><i>User Side</i></h1>
