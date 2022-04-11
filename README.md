@@ -1,70 +1,31 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1><i>Recruitment System</i></h1>
+  <p>The web application which make easier to find and fill the vacancies in companies.Enhanced from user as well as admin-end where job applying for user and adding jobs , shortlisting and scheduling interview task is far simple for admin.</p>  
+  
+  
+  <h1><i>User Side</i></h1>
+    
+  <h2><i>Home</i></h2>
+    <p>Here, all jobs is visible to the user nearby posted by companies.</p>
+    <img src = "https://user-images.githubusercontent.com/93570605/162711251-f24a367e-9657-409e-bf1b-18b9aafbab30.png"></img>
+    <br/>
+  <h2><i>Application Form</i></h2> 
+  <p>It is required for the user to fill this form to apply for the job.</p>
+  <h4>Personal Details</h4>
+  User will fill personal detais here.
+  <img src = "https://user-images.githubusercontent.com/93570605/162713126-e8e03363-6400-4a7a-af2e-feaf9b92c3f7.png"></img> 
+  <br/>
+    <h4>Professional Details</h4>
+  <img src = "https://user-images.githubusercontent.com/93570605/162714016-a6ae5516-5083-4f9c-b10b-670a7d0a952b.png"></img>
+  <br/></br>
+  
+   <h1><i>Admin Side</i></h1>
+   
+   <h2><i>Home</i></h2>
+   Admin will able to see the status of all the jobs posted by him.
+    <img src = "https://user-images.githubusercontent.com/93570605/162715383-ca9ead67-7412-4230-8190-6a2349a30da9.png"></img>
+    
+   <h2><i>Admin Login</i></h2>
+   Admin will put his credentials here.
+   <img src = "https://user-images.githubusercontent.com/93570605/162716125-feb6965a-b1bf-43cc-a674-86f01ce1cbad.png"</img>
+   
+   
