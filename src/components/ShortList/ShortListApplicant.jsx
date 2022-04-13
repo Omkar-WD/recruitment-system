@@ -51,15 +51,16 @@ function ShortListApplicant() {
         isClosable: true,
         position: "top",
       });
-    } else {
-      toast({
-        title: "Interview Cancelled !!!",
-        status: "warning",
-        duration: 2000,
-        isClosable: true,
-        position: "top",
-      });
     }
+    // else {
+    //   toast({
+    //     title: "Interview Cancelled !!!",
+    //     status: "warning",
+    //     duration: 2000,
+    //     isClosable: true,
+    //     position: "top",
+    //   });
+    // }
     axios
       .patch(`${API}/user/${id}`, {
         isInterviewScheduled,

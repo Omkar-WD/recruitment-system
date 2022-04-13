@@ -52,7 +52,7 @@ function ApplyJob() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(userData, API);
+    // console.log(userData, API);
     axios
       .post(`${API}/user`, userData)
       .then((res) => {
